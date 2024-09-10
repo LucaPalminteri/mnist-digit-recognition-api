@@ -72,7 +72,9 @@ Example response:
 
 ```json
 
-{   "predicted_digit": 7 }
+{   
+  "predicted_digit": 7 
+}
 ```
 
 ## Dependencies
@@ -101,4 +103,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ### `requirements.txt`
 
-torch>=1.13.0 torchvision>=0.14.0 fastapi>=0.78.0 uvicorn>=0.18.0
+- torch>=1.13.0
+- torchvision>=0.14.0
+- fastapi>=0.78.0
+- uvicorn>=0.18.0
