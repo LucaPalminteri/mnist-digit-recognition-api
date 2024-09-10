@@ -19,8 +19,8 @@ This project demonstrates how to train a neural network model on the MNIST datas
 1. **Clone the repository**:
 
     ```bash
-    git clone <repo-url>
-    cd <repo-directory>
+    git clone https://github.com/LucaPalminteri/mnist-digit-recognition-api
+    cd mnist-digit-recognition-api
     ```
 
 2. **Install dependencies**:
